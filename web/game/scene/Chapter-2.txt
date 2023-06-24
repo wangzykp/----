@@ -1,0 +1,20 @@
+
+intro:二叔说，|人类的世界充满着未知和危险，|不是每个人都喜欢小猫...|
+bgm:happy uncle.mp3;
+changeBg:bgershu.png -next;
+changeFigure:13.png -left;
+setAnimation:enter-from-left -target=0 -next;
+二叔:咪咪，人类对对猫很不好！外边的世界很危险！你要保护好自己啊！;
+changeFigure: -left;
+bgm:none;
+changeFigure:mimi2.png -right -next;
+咪咪:二叔，你放心，我能保护好自己！;
+changeFigure: -right -next;
+setTextbox:hide;
+intro:这天，贪玩的咪咪又出去玩了|傍晚天气突变，黑压压的乌云，预示着今晚的不平静;
+pixiPerform:rain;
+bgm:雨声.mp3;
+changeBg:rian.png;
+choose:找地方躲雨:chapter-3.txt|冒着雨回家:home he.txt;
+pixiInit;
+bgm:none;

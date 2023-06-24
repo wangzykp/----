@@ -1,0 +1,12 @@
+bgm:雨声.mp3;
+intro:咪咪选择了去找地方躲雨;
+changeBg:rain bg2.jpg.png;
+pixiPerform:rain;
+bgm:none;
+pixiInit;
+bgm:be music.mp3;
+changeBg:jing1.jpg -next;
+changeBg:jing2.jpg -next;
+changeBg:jing3.jpg;
+choose:相信他:xiangxin.txt|不相信:buxiangxin.txt;
+bgm:none;

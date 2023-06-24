@@ -1,0 +1,6 @@
+bgm:wenxin music.mp3;
+changeBg:jing9.jpg;
+intro:达成结局：|没有心眼的小猫|选择相信人类|被好心人收养;
+changeBg:shouyang.jpg.png;
+bgm:none;
+end;

@@ -1,0 +1,3 @@
+changeBg:happy end bg.png -next;
+bgm:happy uncle.mp3;
+intro:达成结局，咪咪安全回家！;

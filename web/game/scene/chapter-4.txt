@@ -1,0 +1,3 @@
+intro:本游戏由真实事件改编|我们为动物发声|尊重生命|敬畏生命;
+changeBg:fengdi.jpg.png;
+end;

@@ -1,0 +1,12 @@
+; 初始场景，以及特效演示
+bgm:心跳声.mp3;
+intro:嘘·····|有人来了|赶快藏起来！;
+bgm:none;
+changeBg:maomao.jpg -next;
+unlockCg:mimi.jpg-name; // 解锁CG并赋予名称
+changeFigure:mimi2.png -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+咪咪:我叫咪咪，是一只黑白花色的小猫，我对人类世界非常好奇;
+changeFigure: -left -next;
+changeBg: -next;
+changeScene:Chapter-2.txt

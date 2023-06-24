@@ -1,0 +1,5 @@
+bgm:wenxin music.mp3;
+changeBg:jing7.jpg;
+choose:跟她走:xin1.txt|不跟她走:buxin2.txt;
+changeBg:;
+bgm:none;

@@ -1,0 +1,7 @@
+bgm:be music.mp3;
+changeBg:jing4.jpg -next;
+changeBg:jing5.jpg -next;
+changeBg:jing6.jpg;
+intro:很遗憾，由于你的轻易相信|造成了咪咪的悲剧|请选择存档，重新进行游戏;
+bgm:none;
+end;

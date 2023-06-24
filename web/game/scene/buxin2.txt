@@ -1,0 +1,5 @@
+intro:达成结局：|坚强的咪咪|选择去冒险和流浪;
+changeBg:liulangxiaomao.jpg.png;
+changeBg:;
+changeScene:chapter-4.txt
+end;

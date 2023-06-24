@@ -1,0 +1,5 @@
+Game_name:;
+Game_key:e578dba4155196;
+Package_name:;
+Title_bgm:;
+Title_img:fengmian3.png;
